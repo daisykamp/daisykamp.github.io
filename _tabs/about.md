@@ -34,10 +34,7 @@ As part of **GradSWE**, I organize research panels, mentoring programs, and outr
 
 ## 🖼️ Photos
 
-![GradSWE Event](/assets/img/gradswe_event.jpg)
-*GradSWE panel discussion at UCI, 2025.*
-
-![Research Poster](/assets/img/poster_session.jpg)
+![Research Poster](/assets/img/2024-10_theochem.png)
 *Presenting my catalysis research at the SWE National Conference.*
 
 ---
@@ -45,5 +42,4 @@ As part of **GradSWE**, I organize research panels, mentoring programs, and outr
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/daisy-kamp)
-- [Google Scholar](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
-- [GradSWE @ UCI](https://gradswe.eng.uci.edu/)
+- [Google Scholar](https://scholar.google.com/citations?user=ow8GkXkAAAAJ&hl=en)
