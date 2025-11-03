@@ -36,7 +36,6 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Daisy Kamp
   github: daisykamp
-  linkedin: daisy-kamp
   email: dkamp@uci.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -45,6 +44,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/daisy-kamp
+    - https://scholar.google.com/citations?user=ow8GkXkAAAAJ&hl=en
 
 # site navigation tabs
 # tabs:
