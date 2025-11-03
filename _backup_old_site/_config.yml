@@ -1,0 +1,14 @@
+theme: jekyll-theme-midnight
+
+url: "https://daisykamp.github.io"
+baseurl: ""
+
+include:
+  - _pages
+
+header_pages:
+  - index.md
+  - _pages/about.md
+
+title: "Daisy Kamp"
+description: "Welcome to my site!"
