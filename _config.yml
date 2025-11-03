@@ -28,14 +28,15 @@ url: "https://daisykamp.github.io"
 github:
   username: daisykamp # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Daisy Kamp
   github: daisykamp
+  linkedin: daisy-kamp
   email: dkamp@uci.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -46,9 +47,9 @@ social:
     - https://www.linkedin.com/in/daisy-kamp
 
 # site navigation tabs
-tabs:
-  - home
-  - about
+# tabs:
+#   - home
+#   - about
 
 # Site Verification Settings
 webmaster_verifications:
