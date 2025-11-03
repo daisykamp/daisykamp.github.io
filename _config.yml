@@ -45,6 +45,11 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/daisy-kamp
 
+# site navigation tabs
+tabs:
+  - home
+  - about
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
